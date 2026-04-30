@@ -1,6 +1,6 @@
 # My-Projects-Collection
 
-### 🐍 Power BI Projects
+### 📊 Power BI Projects
 
 #### 1. Sales Analysis Dashboard
 ![Project 1 Preview](BI%20Project%201.png)
