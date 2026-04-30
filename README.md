@@ -1,7 +1,7 @@
 # My-Projects-Collection
 
 ### 📊  Power BI Sales Performance Dashboard 
-[🔗 Click here to view the Full Report (PDF)](Power BI Project.pdf)
+[🔗 Click here to view the Full Report (PDF)](./Power%20BI%20Project.pdf)
 
 **Project Overview:**
 This comprehensive dashboard provides a deep dive into global sales performance, transforming raw data into actionable business insights.
