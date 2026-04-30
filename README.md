@@ -10,7 +10,7 @@ This comprehensive dashboard provides a deep dive into global sales performance,
 *   **Data Source:** SuperStore dataset (Excel).
 *   **ETL Process:** Comprehensive data cleaning, deduplication, and transformation using **Power Query** to ensure data integrity.
 *   **Data Modeling & DAX:** Developed advanced measures including **Profit Margin**, **Year-over-Year (YoY) Growth**, and running totals to track performance trends.
-*   **Interactive Visualization:** Designed an intuitive user interface featuring dynamic **Slicers**, **Drill-through** actions for granular analysis, and geospatial mapping.
+*   **Interactive Visualization:** Designed an intuitive user interface featuring dynamic **Slicers**, **Drill-through** actions for granular analysis, and geographic mapping.
 
 #### 1. Sales Analysis Dashboard
 ![Project 1 Preview](BI%20Project%201.png)
