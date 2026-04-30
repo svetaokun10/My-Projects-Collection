@@ -7,7 +7,7 @@
 This comprehensive dashboard provides a deep dive into global sales performance, transforming raw data into actionable business insights.
 
 **Key Features & Technical Milestones:**
-*   **Data Source:** Global retail sales dataset (Excel).
+*   **Data Source:** SuperStore dataset (Excel).
 *   **ETL Process:** Comprehensive data cleaning, deduplication, and transformation using **Power Query** to ensure data integrity.
 *   **Data Modeling & DAX:** Developed advanced measures including **Profit Margin**, **Year-over-Year (YoY) Growth**, and running totals to track performance trends.
 *   **Interactive Visualization:** Designed an intuitive user interface featuring dynamic **Slicers**, **Drill-through** actions for granular analysis, and geospatial mapping.
