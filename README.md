@@ -1,5 +1,5 @@
 # My-Projects-Collection
-My Projects Collection
+
 ### Power BI Projects
 
 #### 1. Sales Analysis Dashboard
